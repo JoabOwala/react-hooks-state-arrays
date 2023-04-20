@@ -1,9 +1,10 @@
 const spicyFoods = [
   { id: 1, name: "Buffalo Wings", cuisine: "American", heatLevel: 3 },
   { id: 2, name: "Mapo Tofu", cuisine: "Sichuan", heatLevel: 6 },
+  { id: 3, name: "Sushi", cuisine: "Japanese", heatLevel: 7 },
 ];
 
-let nextId = 3;
+let nextId = 4;
 
 const newSpicyFoods = [
   { name: "Green Curry", cuisine: "Thai", heatLevel: 9 },
